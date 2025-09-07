@@ -19,7 +19,7 @@ After reading the paper, this is my basic understanding of how it works --
 
 <img width="1643" height="236" alt="Screenshot from 2025-08-09 11-55-56" src="https://github.com/user-attachments/assets/d17144f5-ca6c-49ed-a6f0-39e52df3aceb" />
 
-* `grpo-gemma3-270m-eossplit.ipynb` - used the latest released [gemma3-270m](https://huggingface.co/google/gemma-3-270m) and first time after running multiple runs with smolm2 i got **nan** in training loss in step1 itself
+* `grpo-gemma3-270m-eossplit.ipynb` - used the latest released [gemma3-270m](https://huggingface.co/google/gemma-3-270m) and first time after running multiple runs with gemma3 i got **nan** in training loss in step1 itself
   
 <img width="558" height="264" alt="Screenshot from 2025-08-15 10-23-36" src="https://github.com/user-attachments/assets/682515da-1831-4114-ae8f-dfa45ddde57f" />
 

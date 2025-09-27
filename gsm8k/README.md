@@ -8,4 +8,6 @@
      
      <img width="707" height="501" alt="image" src="https://github.com/user-attachments/assets/6b7717e1-8300-4e33-abe5-96e09b3c1c97" />
    - Eval on test set of gsm8k with 100 samples
+  
+     <img width="509" height="62" alt="image" src="https://github.com/user-attachments/assets/b98646f0-4e74-46de-a75f-634836913c9c" />
 

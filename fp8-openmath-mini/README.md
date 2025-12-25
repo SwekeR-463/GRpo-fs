@@ -1,1 +1,1 @@
-
+- fp8 doesnt run on kaggle t4/p100 :(

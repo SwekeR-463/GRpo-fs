@@ -10,3 +10,13 @@
 - SFT exhibits low and stable gradient norms, consistent with supervised maximum-likelihood training on fixed targets.
 - GRPO introduces higher-magnitude gradients due to relative ranking within sampled completion groups, leading to sharper but controlled updates.
 - This contrast highlights how GRPO actively reshapes model behavior beyond format alignment achieved via SFT.
+<img width="3020" height="1448" alt="loss_sft_llama1b_openmathmini" src="https://github.com/user-attachments/assets/b8a24d30-8e5b-4605-8fe7-6e226e939c32" />
+
+
+<img width="882" height="600" alt="llama1b-v1-1-reward" src="https://github.com/user-attachments/assets/5dbcea96-4cec-448d-8c2e-e16f473cd372" />
+
+
+<img width="882" height="600" alt="llama1b-v1-1-loss" src="https://github.com/user-attachments/assets/b6a14f76-7608-4a29-b32f-9ce2fa3d8755" />
+
+
+<img width="882" height="600" alt="llama1b-v1-1-kl" src="https://github.com/user-attachments/assets/782dd5ea-6890-477b-9140-3c6c093c27a7" />

@@ -24,4 +24,6 @@
 - third run using qwen3-0.6b
 - nice format following
 <img width="1124" height="224" alt="image" src="https://github.com/user-attachments/assets/433ce6bd-be95-4ce9-a918-71395ffa7b9b" />
+- weird that most of the reward is coming to be -7.5
+- 
 

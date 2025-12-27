@@ -20,3 +20,5 @@
 
 
 <img width="882" height="600" alt="llama1b-v1-1-kl" src="https://github.com/user-attachments/assets/782dd5ea-6890-477b-9140-3c6c093c27a7" />
+
+- third run using qwen3-0.6b

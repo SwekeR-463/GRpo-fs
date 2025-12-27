@@ -26,8 +26,20 @@
 <img width="1124" height="224" alt="image" src="https://github.com/user-attachments/assets/433ce6bd-be95-4ce9-a918-71395ffa7b9b" />
 
 
+- sft metrics for qwen3 0.6b
+
+
+<img width="1306" height="600" alt="loss_sft_qwen3" src="https://github.com/user-attachments/assets/b3c91f3d-c1c8-43ba-a339-d293e4be7323" />
+
+<img width="1306" height="600" alt="grad_norm_sft_qwen3" src="https://github.com/user-attachments/assets/2f8ecce1-0656-46a4-93aa-0ab187d84e94" />
+
+
+
+
+
 - weird that most of the reward is coming to be -7.5
 
+- grpo metrics for qwen3 0.6b
 
 <img width="882" height="600" alt="reward_qwen3" src="https://github.com/user-attachments/assets/853bf4ae-57f6-43aa-a410-4919be985e93" />
 

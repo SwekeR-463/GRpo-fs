@@ -32,4 +32,22 @@
 <img width="882" height="600" alt="reward_qwen3" src="https://github.com/user-attachments/assets/853bf4ae-57f6-43aa-a410-4919be985e93" />
 
 
+<img width="882" height="600" alt="grad_norm_qwen3" src="https://github.com/user-attachments/assets/43b66c54-2138-4372-9edc-c70dd0615936" />
+
+
+
+
+
+
+<img width="882" height="600" alt="kl_qwen3" src="https://github.com/user-attachments/assets/9b1e2d86-2be4-4831-9ab4-5d35f38e51ec" />
+
+
+
+
+
+
+<img width="882" height="600" alt="loss_qwen3" src="https://github.com/user-attachments/assets/9a30afce-8836-4748-9600-9a8dbbafddc5" />
+
+
+
 

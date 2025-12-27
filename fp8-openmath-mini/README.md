@@ -27,3 +27,9 @@
 
 
 - weird that most of the reward is coming to be -7.5
+
+
+<img width="882" height="600" alt="reward_qwen3" src="https://github.com/user-attachments/assets/853bf4ae-57f6-43aa-a410-4919be985e93" />
+
+
+

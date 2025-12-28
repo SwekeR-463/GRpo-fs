@@ -33,5 +33,5 @@ After reading the paper, this is my basic understanding of how it works --
 * After watching the [RL Workshop](https://youtu.be/OkEGJ5G3foU?si=NFKyF8wLQEd3jQEb) got comfortable with the maths part and also understood if want to apply grpo directly use the `instruct-tuned` model and if want to use `base-model` first sft then grpo.
 * More learnings to come once i start writing better reward functions or play around the grpo & lora hyperparams that are available in trl & peft respectively.
 * As I have started using trackio, for rewards always have to look at rewards/mean for understanding the reward curve.
-* 
+* Why sft has near stable grad norms while rlvr has quite unstable norms? SFT exhibits low and stable gradient norms, consistent with supervised maximum-likelihood training on fixed targets. GRPO introduces higher-magnitude gradients due to relative ranking within sampled completion groups, leading to sharper but controlled updates. Also policy diffs, grads are multiplied with variance increasing it and each step uses new samples from changing policies.
 

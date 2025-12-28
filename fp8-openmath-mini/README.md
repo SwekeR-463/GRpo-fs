@@ -78,5 +78,21 @@
 
 <img width="1364" height="600" alt="qwe3-17b-sft-gradnorm" src="https://github.com/user-attachments/assets/2420132d-8453-464f-9dd6-53a6caaa8c63" />
 
+- dapo runs after cold start
+
+
+<img width="882" height="600" alt="qwen3-17b-dapo-rewards" src="https://github.com/user-attachments/assets/de2ff23f-3089-469f-816e-3492d1706450" />
+
+
+<img width="882" height="600" alt="qwen3-17b-dapo-gradnorm" src="https://github.com/user-attachments/assets/b2370962-67f0-4fc5-b046-3b78b455fd58" />
+
+
+<img width="882" height="600" alt="qwen3-17b-dapo-kl" src="https://github.com/user-attachments/assets/e09be35b-31e1-4cdd-ad13-6769434a1ccf" />
+
+
+
+<img width="882" height="600" alt="qwen3-17b-dapo-loss" src="https://github.com/user-attachments/assets/e3aa55f0-bbbc-4d39-bcda-12103a2c361c" />
+
+---
 
 

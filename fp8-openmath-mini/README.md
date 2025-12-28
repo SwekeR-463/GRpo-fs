@@ -1,8 +1,10 @@
 - fp8 doesnt run on kaggle t4/p100 :(
 - setup = cold start sft on openmath mini + grpo on dapo math 17k
+---
 - first run on llama3.2-1b-instruct
 <img width="1208" height="427" alt="image" src="https://github.com/user-attachments/assets/7628804f-c3ac-428b-ac99-efb69288021a" />
 
+---
 - switched to `<reasoning>...</reasoning>` for second run
 - also added trackio for curves
 - one interesting obv was spiking of gradnorm when grpo run to 1.1-1.3 while for sft it was 0.5-0.6
@@ -20,6 +22,8 @@
 
 
 <img width="882" height="600" alt="llama1b-v1-1-kl" src="https://github.com/user-attachments/assets/782dd5ea-6890-477b-9140-3c6c093c27a7" />
+
+---
 
 - third run using qwen3-0.6b
 - nice format following
@@ -60,7 +64,7 @@
 
 <img width="882" height="600" alt="loss_qwen3" src="https://github.com/user-attachments/assets/9a30afce-8836-4748-9600-9a8dbbafddc5" />
 
-
+---
 
 
 - fourth run with qwen3-1.7b using dapo(which is the default `loss_type` in hf trl)

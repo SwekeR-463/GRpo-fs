@@ -63,3 +63,7 @@
 
 
 
+- fourth run with qwen3-1.7b using dapo(which is the default `loss_type` in hf trl)
+  
+
+

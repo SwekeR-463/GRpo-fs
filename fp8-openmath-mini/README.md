@@ -68,6 +68,15 @@
 
 
 - fourth run with qwen3-1.7b using dapo(which is the default `loss_type` in hf trl)
-  
+
+- sft runs
+
+
+<img width="882" height="600" alt="qwen3-17b-sft-loss" src="https://github.com/user-attachments/assets/059e02ea-48e5-4591-a1c9-680c32609f23" />
+
+
+
+<img width="1364" height="600" alt="qwe3-17b-sft-gradnorm" src="https://github.com/user-attachments/assets/2420132d-8453-464f-9dd6-53a6caaa8c63" />
+
 
 

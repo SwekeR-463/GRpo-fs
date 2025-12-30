@@ -34,4 +34,4 @@ After reading the paper, this is my basic understanding of how it works --
 * More learnings to come once i start writing better reward functions or play around the grpo & lora hyperparams that are available in trl & peft respectively.
 * As I have started using trackio, for rewards always have to look at rewards/mean for understanding the reward curve.
 * Why sft has near stable grad norms while rlvr has quite unstable norms? SFT exhibits low and stable gradient norms, consistent with supervised maximum-likelihood training on fixed targets. GRPO introduces higher-magnitude gradients due to relative ranking within sampled completion groups, leading to sharper but controlled updates. Also policy diffs, grads are multiplied with variance increasing it and each step uses new samples from changing policies.
-
+- In TRL, `reward` indicates the mean reward and `reward_std` indicates the std dev of rewards which gives insight into the variability of model's ouptut.
